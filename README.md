@@ -35,8 +35,3 @@ Kodu çalıştırın
 Herhangi bir geri bildiriminiz varsa, lütfen fkozdev Instagram adresinden bize ulaşın.
 
   
-## Lisans
-
-[Lisans](hthttps://github.com/fkozdev/chapp/blob/main/LICENSE)
-
-  
