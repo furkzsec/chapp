@@ -14,7 +14,7 @@ Python Kullanılarak yapılmış basit bir chat uygulaması.
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/fkozdev/chapp
+  git clone https://github.com/fuekihigh/chapp
 ```
 
 Proje dizinine gidin
@@ -32,6 +32,6 @@ Kodu çalıştırın
   
 ## Geri Bildirim
 
-Herhangi bir geri bildiriminiz varsa, lütfen fkozdev Instagram adresinden bize ulaşın.
+Herhangi bir geri bildiriminiz varsa, lütfen fuekihigh Instagram adresinden bize ulaşın.
 
   
